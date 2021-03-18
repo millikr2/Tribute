@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url('./tactile_noise.png');
+  color: white;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  position: relative;
+}
+
+figure {
+  margin: 0;
+  padding: 0;
+  background-color: #363636;
+  width: auto;
+  padding-top: 30px;
+}
+
+img {
+  height: auto;
+  width:100%;
+  max-width: 50%;
+  display: block;
+  margin:auto;
+
+}
+
+#img-caption {
+  padding-bottom: 5px;
+  height: 25px;
+}
+
+#img-caption a:visited {
+  color: white;
+}
+
+#img-caption a:hover {
+  color: #818181;
+}
+
+h1 {
+  font-size: 8em;
+}
+
+h2 {
+  padding-top: 1em;
+  font-size: 3em;
+}
+
+li.bullets {
+  width: 20%;
+  padding: 20px 0 20px 80px;
+  font-size: 1em;
+  background-image: url(./bolt_no_fill.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline-flex;
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
